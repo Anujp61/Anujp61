@@ -3,7 +3,7 @@
 
 I am Anuj, a Student from india 🇮🇳  passionate about Learning and Exploring the world of DevOps and Cloud native applications,currently working as a Project Executive for an R&D project sponsered by DRDO at IIT JAMMU.
 
-- DevOps tools which I was Currently working on, 
+- DevOps tools which I am Currently working on, 
 
 <p float="left">
   <a href="https://python.org/" target="_blank" >
